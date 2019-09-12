@@ -8,3 +8,4 @@ This is a high powered LED light powered by a 18650 Battery.
 * Has Space for 2 18650 Lithium Batteries. I plan on reusing ones Ive salvaged which amount to around 1500mAh to 2000mAh.
 * Run time at lowest setting (62mA for 1 string) should be 24 Hours using a 1500mAh Battery. This needs to be tested.
 * 10 Hours at the brightest setting. 
+* Has a built in USB charger with status LED's. Charge current is 500mA. 
